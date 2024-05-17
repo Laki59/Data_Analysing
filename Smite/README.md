@@ -1,1 +1,1 @@
-Smite 2 item charts,something i made for fun
+Smite 2 item charts
