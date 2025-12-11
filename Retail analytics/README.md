@@ -15,8 +15,10 @@
 -Checked for NULL in customers and Products just in case
 -Top 10 customers by revenue
 <img width="209" height="216" alt="image" src="https://github.com/user-attachments/assets/dc9635c1-d2a5-4fd6-accc-59365b6908ae" />
+
 -Year/Month revenue
 <img width="217" height="268" alt="image" src="https://github.com/user-attachments/assets/fd9281a6-1207-4910-aa78-0d63d20e56fc" />
+
 -Which products bring the most revenue
 <img width="212" height="105" alt="image" src="https://github.com/user-attachments/assets/4c253c86-4b96-4384-aba4-e489e6179d81" />
 -Most sold product(add TOP 1 for most sold one)
