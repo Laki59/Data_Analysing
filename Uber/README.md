@@ -32,6 +32,8 @@ These charts shows us that most customers use Auto,but go mini is trailing close
 We can see that February was also our weakest month by a large margin compared to other months,and also January has way more rides in the morning hours compared to other months.
 Alot of people order rides past working hours,so past 6pm.
 
+---
+
 - Total rides with drivers ratings,we can see most drivers sit inbetween 4.0 and 4.5,and there's not many of them below 3.5
 - Total rides with customer rating,similar to drivers,but way more customers with rating between 4.5 and 5,and the dropoff seems to be similar after 3.5,even more for customers
 <img width="858" height="480" alt="image" src="https://github.com/user-attachments/assets/e0228030-80ce-4c41-b3c2-affa7a547233" />
