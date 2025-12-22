@@ -55,7 +55,7 @@ This section focuses on completed rides only:
 - **Auto** is the most used vehicle type, with **Go Mini** closely trailing (difference of ~7,000 rides)
 - Go Mini may overtake Auto in the future due to better fuel efficiency
 - **February** had the lowest total ride distance by a large margin
-- Ride demand peaks **after working hours (post-6 PM)** and again around **11:30 PM**
+- Ride demand peaks **after working hours (post-6 PM)** and again around **11:30 AM**
 - January shows higher morning ride activity compared to other months
 
 ---
