@@ -1,7 +1,7 @@
 # Uber Rides Data Analysis
-This project analyzes an Uber rides dataset from Kaggle.  
-The data was cleaned and transformed, then visualized in Power BI to uncover trends in ride completion, cancellations, vehicle usage, locations, timing, and ratings.
-Used Power BI mostly,with screenshots included
+- This project analyzes an Uber rides dataset from Kaggle.  
+- The data was cleaned and transformed, then visualized in Power BI to uncover trends in ride completion, cancellations, vehicle usage, locations, timing, and ratings.
+- Used Power BI mostly,with screenshots included
 
 # Airports:
 - Made a Power Bi dashboard for data with flights,with nearly 2 million rows
