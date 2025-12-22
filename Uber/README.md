@@ -5,7 +5,7 @@ The data was cleaned and transformed, then visualized in **Power BI** to uncover
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard communicates the following insights:
 
@@ -20,7 +20,7 @@ The dashboard communicates the following insights:
 
 ---
 
-## 📈 Ride Status & Cancellations
+## Ride Status & Cancellations
 
 - Total rides are displayed using KPI cards for quick comparison
 - A stacked bar chart shows the percentage distribution of ride statuses
@@ -39,7 +39,7 @@ The dashboard communicates the following insights:
 
 ---
 
-## 🚗 Usage Patterns & Distance Analysis
+## Usage Patterns & Distance Analysis
 
 This section focuses on completed rides only:
 
@@ -60,7 +60,7 @@ This section focuses on completed rides only:
 
 ---
 
-## ⭐ Ratings Analysis
+## Ratings Analysis
 
 - Distribution of driver ratings
 - Distribution of customer ratings
@@ -75,7 +75,7 @@ This section focuses on completed rides only:
 
 ---
 
-## ⚠️ Note on Data Quality
+## Note on Data Quality
 
 There is a known issue in the dataset:
 - Rides with booking status **"No Driver Found"** were incorrectly counted as **Completed**
@@ -86,14 +86,14 @@ This issue is acknowledged and documented for transparency.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI
 - Excel (data cleaning)
 - DAX (basic measures)
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This analysis highlights operational inefficiencies, ride demand patterns, and behavioral differences between drivers and customers.  
 It also demonstrates how visual analytics can be used to identify peak demand periods, cancellation drivers, and service quality indicators.
