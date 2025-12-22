@@ -19,6 +19,7 @@ These charts communicate:
 <img width="1446" height="806" alt="image" src="https://github.com/user-attachments/assets/0e427e72-e736-46df-81f6-1cd0ea2979d3" />
 From these charts we can see that completed rides are at around 70%, while drivers cancell way more rides than customers.
 Nothing really sticks out for drivers reasons as all options are near 25%, where customers mostly complain about wrong address.
+---
 
 - Completed rides top pick up locations
 - Completed rides top drop off locations
