@@ -91,9 +91,3 @@ This issue is acknowledged and documented for transparency.
 - Excel (data cleaning)
 - DAX (basic measures)
 
----
-
-## Conclusion
-
-This analysis highlights operational inefficiencies, ride demand patterns, and behavioral differences between drivers and customers.  
-It also demonstrates how visual analytics can be used to identify peak demand periods, cancellation drivers, and service quality indicators.
