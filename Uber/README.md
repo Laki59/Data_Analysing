@@ -26,7 +26,7 @@ The dashboard communicates the following insights:
 - A stacked bar chart shows the percentage distribution of ride statuses
 - Cancellation reasons are split by:
   - Drivers (pie chart)
-  - Customers (column chart)
+  - Customers (pie chart)
 - Incomplete ride reasons are also visualized
 
 ![Ride Status & Cancellations](https://github.com/user-attachments/assets/0e427e72-e736-46df-81f6-1cd0ea2979d3)
